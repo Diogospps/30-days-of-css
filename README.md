@@ -1,4 +1,4 @@
-### 📆  30 Days Off CSS  📆
+### 📆  30 Days Of CSS  📆
 # 📌 Challenges 📌
 
 -   Dia 01 - Ícone de mídia social em camadas![challenge 1](https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif)
